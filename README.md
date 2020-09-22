@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Taste Book
+React App created with HTML, CSS, JavaScript, ReactJS and a NodeJS/ MongoDB backend. 
+
 ## Available Scripts
 
 In the project directory, you can run:
